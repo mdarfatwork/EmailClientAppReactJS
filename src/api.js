@@ -1,0 +1,1 @@
+export const api = 'https://flipkart-email-mock.now.sh/'
